@@ -1,0 +1,61 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "buoi2.main"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "main"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "test.main",
+      "projectName": "buoi1"
+    },
+    {
+      "type": "java",
+      "name": "helloWorld",
+      "request": "launch",
+      "mainClass": "Java.helloWorld"
+    },
+    {
+      "type": "java",
+      "name": "helloWorld",
+      "request": "launch",
+      "mainClass": "helloWorld"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/GIGABYTE/OneDrive/Desktop/code",
+      "program": "c:/Users/GIGABYTE/OneDrive/Desktop/code/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
